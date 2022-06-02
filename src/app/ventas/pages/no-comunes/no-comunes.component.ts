@@ -45,9 +45,9 @@ export class NoComunesComponent implements OnInit {
 
   //KeyValue Pipe
   persona = {
-    nombre: 'Fernando',
-    edad: 35,
-    direccion: 'Ottawa, Canada'
+    nombre: 'Dandaly',
+    edad: 34,
+    direccion: 'Peñaflor, Chile'
   }
 
   //Jason pipe
